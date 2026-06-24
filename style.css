@@ -1,11 +1,16 @@
 /* Tags */
 body {
-  padding-top: 60px;
+  padding-top: 10em;
 }
 /* Class */
 
 /* Ids */
 
+/* attributes */
+img[src="logo.svg"] {
+    width: 4em;
+    height: auto;
+}
 /* Desktop detection */
 @media screen and (max-width: 700px) {
 }
