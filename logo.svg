@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="11.944557"
-     inkscape:cx="-4.8557683"
-     inkscape:cy="5.3580892"
-     inkscape:window-width="1434"
-     inkscape:window-height="748"
-     inkscape:window-x="268"
-     inkscape:window-y="378"
-     inkscape:window-maximized="0"
+     inkscape:zoom="2.1115193"
+     inkscape:cx="-73.880451"
+     inkscape:cy="53.042375"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:lockguides="false">
     <inkscape:grid
@@ -93,27 +93,28 @@
      inkscape:groupmode="layer"
      id="layer1">
     <ellipse
-       style="fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.446279;stroke-dasharray:none;stroke-opacity:0"
+       style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.448449;stroke-dasharray:none;stroke-opacity:0"
+       id="ellipse247"
+       clip-path="none"
+       cx="7.9915986"
+       cy="7.9658756"
+       rx="6.9378948"
+       ry="7.0600343" />
+    <ellipse
+       style="fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.415621;stroke-dasharray:none;stroke-opacity:0"
        id="path1627"
        clip-path="none"
-       cx="7.988862"
-       cy="7.982841"
-       rx="6.9769883"
-       ry="6.9527211" />
+       cx="8.0724955"
+       cy="8.0604801"
+       rx="6.5101724"
+       ry="6.4626622" />
     <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.401008;stroke-dasharray:none;stroke-opacity:0"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.401008;stroke-dasharray:none;stroke-opacity:0"
        id="path2318"
        cx="7.9642177"
        cy="7.77104"
        rx="7.9599361"
        ry="1.9751496" />
-    <ellipse
-       style="display:none;fill:#d7ab82;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:0"
-       id="ellipse2278"
-       cx="-7.8223491"
-       cy="5.8867784"
-       rx="8.0096369"
-       ry="1.9619027" />
     <ellipse
        style="fill:#502d16;stroke-width:1.08266"
        id="path428"
