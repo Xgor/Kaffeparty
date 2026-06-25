@@ -1,11 +1,28 @@
 /* Tags */
 body {
-  padding-top: 10em;
+  padding-top: 6em;
   margin: 2em;
-  background-color: bisque;
+  background: #c9a385;
+}
+
+
+footer {
+  background-color:  #d8d7bd;
+  border-color: rgb(110, 106, 106);
+  border-style: dotted;
+  border-radius: 5em;
+  text-align: center;
+  margin-top: 2em;
+
 }
 /* Class */
 
+.navbar {
+  background: linear-gradient(0deg, #977549 0%, #9e7271 100%);
+  border: 0;
+  border-bottom: 2px;
+  border-style: solid;
+}
 /* Ids */
 
 /* attributes */
