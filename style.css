@@ -5,6 +5,10 @@ body {
   background: #c9a385;
 }
 
+h1,h2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+}
 
 footer {
   background-color:  #d8d7bd;
@@ -22,6 +26,8 @@ footer {
   border: 0;
   border-bottom: 2px;
   border-style: solid;
+  font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 /* Ids */
 
